@@ -104,7 +104,7 @@ AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 �
 - 주관: 씨유박스, 크라우드웍스, 슈퍼브에이아이, 어반유니온, 크라우드픽, 제제듀
 
 ## FAQ
-- 자주 문의하는 내용을 확인해 보세요! [FAQ](https://github.com/SmallObjectAIChallenge/2021sochallege/blob/master/FAQ.md)
+- 자주 문의하는 내용을 확인해 보세요! [FAQ](https://github.com/DatathonInfo/SOChallenge/issues)
 
 ## 문의
 issue 페이지에 문의글을 남기시면 담당자가 답변드립니다. <br>
