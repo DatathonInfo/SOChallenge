@@ -1,4 +1,6 @@
-![소형객체 인공지능 모델 개발 챌린지_1](https://user-images.githubusercontent.com/90318314/132815665-1ab30e75-a877-45d4-9acb-aeb1c7482fcf.jpg)
+
+![SOC](https://user-images.githubusercontent.com/92664643/141741468-8ebc67a5-0c7c-412e-ad26-1614588bba54.jpg)
+
 # Small Object AI Challenge 2021
 소형객체 인공지능 모델 개발에 도전해보세요! <p>
 Small Object AI Challenge는 '인공지능 학습용 데이터 구축 사업'을 통해 구축된 소형객체 이미지, 수식/도형/낙서/기호 등 OCR 데이터를 활용하여 소형객체 인식 인공지능 모델과 OCR 인식 인공지능 모델을 개발하는 해커톤 대회입니다. <p>
@@ -62,14 +64,14 @@ AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 �
     <td>
       <strong>참가 신청</strong><br>
     </td>
-    <td style="text-align:center"> 2021년 10월 1일(금) ~ 10월 30일(토) 23시 59분 59초</td>
+    <td style="text-align:center"> 2021년 10월 1일(금) ~ 11월 25(목) 23시 59분 59초</td>
     <td> 온라인(link) </td>
   </tr>
     <tr>
     <td>
       <strong>서류심사</strong><br>
     </td>
-    <td style="text-align:center">2021년 11월 2일(화)</td>
+    <td style="text-align:center">2021년 11월 26일(금) ~ 2021년 11월 28일(일)</td>
         <td align=center> 합격팀 개별 통보
     </td>
    </tr>
@@ -77,7 +79,7 @@ AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 �
     <td align=center>
       <strong>본선</strong><br>
     </td>
-    <td style="text-align:center">2021년 11월 5일(금) ~ 11월 7일(일) 17:00</td>
+    <td style="text-align:center">2021년 12월 1일(수) ~ 12월 3일(금)</td>
  <td align=center> 온라인 (NSML)
     </td>
    </tr>
