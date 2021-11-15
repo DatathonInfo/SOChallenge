@@ -99,7 +99,6 @@ AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 �
 - 참가신청: link
 
 
-※ 참가 신청 시 팀의 commit log 기재 방법 https://github.com/Korea-Health-Datathon/KHD2020/issues/5
 
 ## 추진
 - 주최: 과학기술정보통신부, 한국지능정보사회진흥원
