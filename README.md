@@ -89,15 +89,15 @@ AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 �
 
 ## 심사기준
 - NSML Leader Board score
-- NSML Leader Board의 score : 2021년 11월 7일(일) 17:00 종료 시점 기준으로 submit이 완료된 상태여야 함
+- NSML Leader Board의 score : 2021년 12월 3일(금) 17:00 종료 시점 기준으로 submit이 완료된 상태여야 함
 
 ## 참가신청
-- 참가신청 마감: 2021년 10월 1일(금) ~ 10월 30일(토) 23시 59분 59초
+- 참가신청 마감: 2021년 10월 1일(금) ~ 11월 25일(목) 23시 59분 59초
 - 서류심사 후 본선 진출팀 개별 안내
 - 참가대상: 인공지능 학습 모델 개발에 관심있는 누구나 (5인 이하 팀 구성)
 - 참가규모: 본선 주제 1 20개팀 / 주제 2 20개팀 총 40개팀 선발(팀별 신청, 팀별 최소 2인 이상)
 - 참가신청: link
-- 문의: help.sochallenge@gmail.com 
+
 
 ※ 참가 신청 시 팀의 commit log 기재 방법 https://github.com/Korea-Health-Datathon/KHD2020/issues/5
 
