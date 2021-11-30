@@ -1,4 +1,5 @@
 # Baseline code
+주제1. Small Object Detection 모델 개발
 ## 실행 방법
 ```bash
 # 명칭이 'CUBOX_SOC'인 데이터셋을 사용해 세션 실행하기
