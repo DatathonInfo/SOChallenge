@@ -25,3 +25,7 @@ $ nsml submit -t [세션명] [모델_checkpoint_번호]
 # 제출 후 리더보드에서 점수 확인 가능
 nsml submit [세션명] [모델_checkpoint_번호]
 ```
+
+## 주의사항
+* Model Submit시 Training Set에는 접근이 불가능하며, Test Set만 제공됩니다. 
+* Model Submit 중 training label이 필요하시면, 함께 제공드린 `train_data`를 사용하시기 바랍니다.
