@@ -3,7 +3,7 @@
 
 # Small Object AI Challenge 2021
 소형객체 인공지능 모델 개발에 도전해보세요! <p>
-Small Object AI Challenge는 '인공지능 학습용 데이터 구축 사업'을 통해 구축된 소형객체 이미지, 수식/도형/낙서/기호 등 OCR 데이터를 활용하여 소형객체 인식 인공지능 모델과 OCR 인식 인공지능 모델을 개발하는 해커톤 대회입니다. <p>
+Small Object AI Challenge는 '인공지능 학습용 데이터 구축 사업'을 통해 구축된 소형객체 이미지, 인쇄체 데이터를 활용하여 소형객체 인식 인공지능 모델과 OCR 인식 인공지능 모델을 개발하는 해커톤 대회입니다. <p>
 ‘Small Object AI Challenge 2021’은 NAVER CLOUD PLATFORM의 고성능 클라우드 인프라 상에서 운영되며 네이버의 클라우드 머신러닝 플랫폼인 NSML(Naver Smart Machine Learning)과 함께 합니다. <strong>[NAVER CLOUD PLATFORM](https://www.ncloud.com/)</strong>과 <strong>[NSML](https://ai.nsml.navercorp.com/intro)</strong>은 개발자들이 "모델 개발과 알고리즘 최적화"에만 집중할 수 있도록 필요한 제반 환경을 제공합니다. 
 AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 기다리고 있습니다.
 <br>  
@@ -11,8 +11,8 @@ AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 �
 ## 미션
 - 주제 1: Small Object Detecion 모델 개발
   - 소형객체를 인식하고 분류하는 딥러닝 모델 개발<p>
-- 주제 2: 수식, 도형, 낙서, 기호 등 OCR 인식 모델 개발
-  - 다양한 수식, 도형, 낙서, 기호 이미지들을 효율적으로 분류하는 딥러닝 모델 개발<p>
+- 주제 2: 인쇄체 인식 AI 모델 개발
+  - 인쇄체를 인식하는 딥러닝 모델 개발<p>
   
 ※ 주제 1, 2 중 참가 신청 시 1개의 미션을 선택하여 참가<br>
 &emsp;Pretrained model 사용 가능
@@ -90,6 +90,7 @@ AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 �
 ## 심사기준
 - NSML Leader Board score
 - NSML Leader Board의 score : 2021년 12월 3일(금) 17:00 종료 시점 기준으로 submit이 완료된 상태여야 함
+※ 동점인 경우에는 ①모델 제출 순서가 빠른 순 ②모델 크기가 작은 순으로 순위 선정
 
 ## 참가신청
 - 참가신청 마감: 2021년 10월 1일(금) ~ 11월 25일(목) 23시 59분 59초
@@ -108,4 +109,4 @@ AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 �
 - 자주 문의하는 내용을 확인해 보세요! [FAQ](https://github.com/DatathonInfo/SOChallenge/issues)
 
 ## 문의
-issue 페이지에 문의글을 남기시면 담당자가 답변드립니다. <br>
+Issue 페이지에 문의글을 남기시면 담당자가 답변드립니다. <br>
