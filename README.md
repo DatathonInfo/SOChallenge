@@ -89,7 +89,7 @@ AI 전문가들과 함께 인공지능 모델 개발에 도전하실 분들을 �
 
 ## 심사기준
 - NSML Leader Board score
-- NSML Leader Board의 score : 2021년 12월 3일(금) 17:00 종료 시점 기준으로 submit이 완료된 상태여야 함
+- NSML Leader Board의 score : 2021년 12월 3일(금) 14:00 종료 시점 기준으로 submit이 완료된 상태여야 함
 ※ 동점인 경우에는 ①모델 제출 순서가 빠른 순 ②모델 크기가 작은 순으로 순위 선정
 
 ## 참가신청
